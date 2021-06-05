@@ -11,7 +11,7 @@ sqllocaldb.exe stop
 sqllocaldb.exe delete
 
 
-2. Delete the Migrations folder and everything App_Data folder too!
+2. Delete the Migrations folder and everything in App_Data folder too!
 
 
 3. Create new database (check if u have selected Core/Data from the dropbox):

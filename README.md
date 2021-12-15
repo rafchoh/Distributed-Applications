@@ -1,4 +1,4 @@
-# Distributed-Applications
+# Distributed-Application
 SOAP Service + 3 layers ( programming language: C# )
 
 
